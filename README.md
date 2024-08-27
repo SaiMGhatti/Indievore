@@ -1,17 +1,19 @@
 # Indievore
-Developed a ecommerce website for mom & pop stores to start their online business. 
+Developed an ecommerce website for mom & pop stores to start their online business. There are two design flows in this mvp. One flow is the customer flow where the customer can choose the products to shop. In the other flow, retailer gets a notification if customer has chooses his store for ordering. If so, then retailer packs the order and adds the receipt. This receipt will be sent to customer email and customer can go to the store to collect his order.
 Tools used: Nodejs, MongoDB, reactJS, sendgrid
 1. Landing Page
 ![image](https://github.com/user-attachments/assets/2d77a856-5fdb-4a6f-91fe-f837af817943)
 
-2. User shopping page
+2. Landing Page 2
 ![image](https://github.com/user-attachments/assets/3bf4ff7c-f49b-4bde-a97b-9ca7a958943b)
 
-3. Cart Page
+3. Customer shopping page
 ![image](https://github.com/user-attachments/assets/5ee11b9a-79f5-4a64-94ca-d42946acc3cd)
 
+5. Cart Page
 ![image](https://github.com/user-attachments/assets/625788e6-6aa8-4832-b6c5-19ff37b47437)
 
+6.
 ![image](https://github.com/user-attachments/assets/fd7fead9-be33-4dc6-a86e-abf18ee7c323)
 
 ![image](https://github.com/user-attachments/assets/937605c3-2716-461f-b510-4f63236db74b)
