@@ -13,9 +13,10 @@ Tools used: Nodejs, MongoDB, reactJS, sendgrid
 5. Cart Page
 ![image](https://github.com/user-attachments/assets/625788e6-6aa8-4832-b6c5-19ff37b47437)
 
-6.
+6. Order placed pop up
 ![image](https://github.com/user-attachments/assets/fd7fead9-be33-4dc6-a86e-abf18ee7c323)
 
+7.
 ![image](https://github.com/user-attachments/assets/937605c3-2716-461f-b510-4f63236db74b)
 
 ![image](https://github.com/user-attachments/assets/fb45428a-28cc-4e65-a769-6fa5a9f72cdf)
